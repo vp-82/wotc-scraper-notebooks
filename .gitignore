@@ -130,3 +130,6 @@ dmypy.json
 
 # Conda environment
 ./env
+
+# Raw html data
+/data
